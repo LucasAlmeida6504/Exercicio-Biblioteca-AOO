@@ -1,6 +1,5 @@
 public class Professor extends Pessoa{
     public String codigo;
-    public String local;
 
     public Professor(String nome,String codigo) {
         super(nome, codigo);
