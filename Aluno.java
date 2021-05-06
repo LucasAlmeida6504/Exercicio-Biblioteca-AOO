@@ -1,4 +1,5 @@
 public class Aluno extends Pessoa {
+    
     public String codigo;
 
     public Aluno(String nome, String codigo) {
