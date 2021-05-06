@@ -1,4 +1,5 @@
 public class Professor extends Pessoa{
+    
     public String codigo;
 
     public Professor(String nome,String codigo) {
